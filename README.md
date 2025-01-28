@@ -9,6 +9,10 @@ To Install the software, run the executable setup file (PlasmaCell-CAD.exe)
 
 https://www.mediafire.com/file/cw156tu28i4s836/PlasmaCell-CAD.rar/file
 
+To download the open source software:
+
+https://www.mediafire.com/file/te3ve60b927l5hc/PlasmaCadSourceCode.rar/file
+
 ## Typical Workflow
 
  - Load Image
