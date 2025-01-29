@@ -44,7 +44,7 @@ After the article is published, the source code will be made available on the we
 
 - Operating System: Windows 10 (64-bit)
 - Processor: Intel Core i5 (must support AVX2 instructions)
-- Memory: 8 GB RAM
+- Memory: 16 GB RAM
 - Graphic card: NVIDIA GeForce GT 620M
 
 ## Contacts
