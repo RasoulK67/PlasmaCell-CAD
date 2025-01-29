@@ -31,10 +31,6 @@ https://www.mediafire.com/file/te3ve60b927l5hc/PlasmaCadSourceCode.rar/file
 - Using the circlet transform to generate fewer anchors and determine more correctly the regions of interest for the Mask-RCNN algorithm.
 
 
-## Attention
-
-After the article is published, the source code will be made available on the web page.
-
 ## License (Apache license)
 
 [![Apache License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
