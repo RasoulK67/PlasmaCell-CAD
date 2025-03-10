@@ -47,3 +47,7 @@ https://www.mediafire.com/file/te3ve60b927l5hc/PlasmaCadSourceCode.rar/file
 
 Contacts: Rasoul Kasbgar (rasoulkasbgar@amt.mui.ac.ir), and Alireza Vard (vard@amt.mui.ac.ir)
 
+## Citations
+If you find our PlasmaCell CAD, code, model useful in your research or publication, please cite the following paper:
+
+Rasoul Kasbgar, Alireza Vard, PlasmaCell CAD: A computer-aided diagnosis software tool for plasma cell recognition and characterization in microscopic images, International Journal of Medical Informatics, Volume 198, 2025, 105869. https://doi.org/10.1016/j.ijmedinf.2025.105869
